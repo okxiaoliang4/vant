@@ -9,7 +9,7 @@ node_modules
 package-lock.json
 
 # dist file
-lib
+es
 dist
 /site
 changelog.generated.md
